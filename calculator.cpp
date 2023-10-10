@@ -19,6 +19,8 @@ int main(){
         double num1, num2, result;
         char op;
 
+        cout<<endl; // endline for new calculation
+        
         cout<<"Enter your 1st number: ";
         cin>> num1;
 
