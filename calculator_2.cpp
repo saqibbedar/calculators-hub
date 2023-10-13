@@ -1,19 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Algorithm:
-/* 
-    1. Creating c++ boilerplate (preprocessing command!)
-    2. declearing while loop for the continuety of the code!
-    3. declearing variables to store the values to from the user!
-    4. prompting user to enter data
-    5. Switch statement to watchdog operators
-    6. conditions to check the values for division
-    7. showing final result to user
-*/
-
-// document.designMode = 'on'; 
-
 int main()
 {
 
