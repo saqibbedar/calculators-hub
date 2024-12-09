@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore NetBeans specific files
+nbproject/private/
+
+# Ignore other files
+*.class
+*.log
