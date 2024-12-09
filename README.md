@@ -1,7 +1,7 @@
 # Calculators Hub
 A collection of calculator implementations in different programming languages including C++, Python, Java (Swing), and JavaScript (HTML, CSS, JS).
 
-![Calculator](https://github.com/saqibbedar/calculator.cpp/assets/124094939/dc8c2df5-5a9f-485f-a914-54f718ca7285)
+![Calculator](./public/img.png)
 
 ## Getting Started
 To test these calculators, follow the instructions for each language:
